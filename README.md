@@ -1,3 +1,10 @@
+## Install dependencies
+
+```bash
+## Install poetry here: https://python-poetry.org/docs/
+poetry install
+```
+
 ## Run jupyterlab
 
 ```bash
