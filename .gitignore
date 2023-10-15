@@ -177,5 +177,6 @@ pyrightconfig.json
 
 data/*
 !data/preprocessed_train.csv
+!data/preprocessed_test.csv
 !data/test.csv
 !data/train.csv
