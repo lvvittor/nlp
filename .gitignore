@@ -176,6 +176,5 @@ pyrightconfig.json
 # End of https://www.toptal.com/developers/gitignore/api/python
 
 data/*
-!data/preprocessed_train.csv
 !data/test.csv
 !data/train.csv
